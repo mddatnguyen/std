@@ -1,0 +1,3 @@
+memo:
+ - create new git repo
+ - add memo
